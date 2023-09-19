@@ -3,7 +3,7 @@ Lista de tarefas com React.
 ______________________
 
 # Como inicializar:
-Após clonar o repositório, é necessário rodar o server db.json usando o comando *npm run server*
+Após clonar o repositório, é necessário rodar o server db.json usando o comando *npm run server*.
 Quando visualizar a imagem abaixo, saberá que o server está pronto.
 
 
