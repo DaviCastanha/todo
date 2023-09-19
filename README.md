@@ -5,7 +5,7 @@ ______________________
 # Como inicializar:
 Após clonar o repositório, é necessário rodar o server db.json usando o comando *npm run server*
 Quando visualizar a imagem abaixo, saberá que o server está pronto.
-![Inicialização do banco de dados genérico](public\serverjson.png)
+![Inicialização do banco de dados genérico](public/serverjson.png)
 
 Depois precisamos iniciar o arquivo usando o comando *npm start*
 Ao final do carregamento você verá a seguinte notificação:
