@@ -9,10 +9,10 @@ Quando visualizar a imagem abaixo, saberá que o server está pronto.
 
 Depois precisamos iniciar o arquivo usando o comando *npm start*
 Ao final do carregamento você verá a seguinte notificação:
-![Inicialização do servidor](public\npmstart.png)
+![Inicialização do servidor](public/npmstart.png)
 
 E por fim, terá o app aberto e pronto para uso.
-![Lista de Tarefas](public\todolist.png)
+![Lista de Tarefas](public/todolist.png)
 
 # Informações:
 
