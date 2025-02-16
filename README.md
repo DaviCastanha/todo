@@ -3,7 +3,10 @@ Lista de tarefas com React.
 ______________________
 
 # Como inicializar:
-Após clonar o repositório, é necessário rodar o server db.json usando o comando *npm run server*.
+Após clonar o repositório, use npm install para instalar as dependências.
+
+É necessário rodar o server db.json usando o comando *npm run server*.
+Caso não funcione, tente instalar manualmente, usando *npm install json-server --save-dev*
 
 Quando visualizar a imagem abaixo, saberá que o server está pronto.
 
@@ -11,6 +14,7 @@ Quando visualizar a imagem abaixo, saberá que o server está pronto.
 ![Inicialização do banco de dados genérico](public/serverjson.png)
 
 Depois precisamos iniciar o arquivo usando o comando *npm start*
+Caso não funcione, tente instalar manualmente, usando *npm install react-scripts --save*
 
 Ao final do carregamento você verá a seguinte notificação:
 
@@ -24,13 +28,7 @@ E por fim, terá o app aberto e pronto para uso.
 
 # Informações:
 
-Esse projeto foi elaborado por um professor em um curso de react.
-
-
-O projeto carece de componentização e chamadas seguras de API via try/catch.
-
-Ao mesmo tempo, consegui aprender bastante do uso do React e temas citados acima.
-
+Esse projeto é um exercício de curso.
 
 
 Obrigado!
